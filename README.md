@@ -8,10 +8,10 @@ In a larger organisation where Credentials are at the crux of keeping a high-pro
 Organizations require user credentials to control access to sensitive data and services. However, those credentials hold significant potential for abuse if not appropriately managed. Much like an entity or individual goes through different roles and responsibilities during their tenure in an organization, so must the credentials they hold. Credentials that are not quickly purged when the user leaves the organization pose a significant risk. 
 
 ## Steps to perform Credential-Management. 
-1- Reconnaissance (i.e. Gaining the suitable information of the victim and analysing credentials) 
-2- Brute-forcing with random passwords to gain access. 
-3- After Gaining access further exploitation and draining data. 
-4- Clearing evidence of attack. 
+1) Reconnaissance (i.e. Gaining the suitable information of the victim and analysing credentials) 
+2) Brute-forcing with random passwords to gain access. 
+3) After Gaining access further exploitation and draining data. 
+4) Clearing evidence of attack. 
 
 ## Scripts Used for password guessing. 
 int VerifyAdmin(String password)
