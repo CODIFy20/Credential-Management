@@ -18,4 +18,7 @@ Organizations require user credentials to control access to sensitive data and s
 
 ![WhatsApp Image 2022-12-11 at 21 38 25](https://user-images.githubusercontent.com/115407638/206914763-ae147529-0bc2-4987-83f3-787bec6a5b48.jpeg)
 
-![WhatsApp Image 2022-12-11 at 21 38 24](https://user-images.githubusercontent.com/115407638/206914778-55fa0334-9e59-411e-bb91-494fd913aecc.jpeg)
+![WhatsApp Image 2022-12-11 at 21 38 24](https://user-images.githubusercontent.com/115407638/206914778-55fa0334-9e59-411e-bb91-494fd913aecc.jpeg) 
+ 
+## Cause of Credential Management attack 
+Irrational distribution of sensitive data of organisation among employees is the most important reason for Credential management attacks. Followed by least secure stored data is also the reason for Credential Management surfing. Weak passwords, unprotected devices, not proper monitoring of data in use also lead to these type of attacks.  
