@@ -14,7 +14,4 @@ Organizations require user credentials to control access to sensitive data and s
 4) Clearing evidence of attack. 
 
 ## Scripts Used for password guessing. 
-int VerifyAdmin(String password)
-{ if (!password.equals("Mew!")) 
-{ return(0) } 
-Return(1) } 
+
